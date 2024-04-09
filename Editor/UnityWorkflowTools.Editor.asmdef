@@ -1,0 +1,16 @@
+{
+    "name": "UnityWorkflowTools.Editor",
+    "rootNamespace": "UnityWorkflowTools.Editor",
+    "references": [
+        "GUID:4c2213197c927ac44bd6cfa7791cc913"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
